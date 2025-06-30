@@ -1,6 +1,6 @@
 # Variables and Data Types
-"""name = "Vincent"
-age = 24
+"""name = "Testing"
+age = 20
 fav_prog = ['python','sql']
 print(f'My name is {name}, I am {age} years old and my favorite programming language is {fav_prog[0]} ')"""
 
@@ -35,7 +35,7 @@ def display_users(users):
 # Define users list
 users = [
     {"name": "John", "age": 25, "email": "johnwick@gmail.com"},
-    {"name": "Vincent", "age": 24, "email": "diskvin@gmail.com"}
+    {"name": "tested", "age": 24, "email": "tester@gmail.com"}
 ]
 
 # Call function
